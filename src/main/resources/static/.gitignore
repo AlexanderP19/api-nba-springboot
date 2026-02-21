@@ -1,7 +1,4 @@
-target/
+/target
+/.idea
 *.log
-*.class
-*.jar
-*.war
-.idea/
-.vscode/
+/application.properties
